@@ -1,0 +1,9 @@
+If you've designed an App using PhoneGap or any other app builder, and need to upload it to the Apple iOS App Store, then you need a Mac to use the Application Loader. 
+
+If you don't have a Mac, You can use the Appuploader tool, he can help you create iOS certificates and upload IPA to App Store in Windows PC.
+
+Have a look at their website  www.appuploader.net
+
+Free trial
+
+I've had no problems with them in the past, and my apps have been successfully upload :). 
